@@ -1,0 +1,71 @@
+.dev-title{
+    font-family: 'McLaren', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 490px;
+}
+
+.title-keys{
+    font-family: 'McLaren', cursive;
+    font-weight: bold;
+    background: linear-gradient(to right, #8e2de2, #4a00e0);
+    color: white;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.text-head{
+    background: linear-gradient(to right, #8e2de2, #4a00e0);
+    color: white;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'McLaren', cursive;
+    margin-top: 30px;
+}
+
+.text-sub{
+    font-size: 30px;
+    font-family: 'McLaren', cursive;
+    margin-top: 8px;
+    margin-left: 710px;
+}
+
+.text-js{
+    background: linear-gradient(to right, #8e2de2, #4a00e0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.my-div{
+    text-align: center;
+    align-self: center;
+    margin-left: 280px;
+    margin-top: 80px;
+    width: 800px;
+    height: 250px;
+}
+
+.button-play{
+    background: black;
+    border: none;
+    border-radius: 15px;
+    height: 150px;
+    width: 40px;
+}
+
+.button-play1{
+    background: #8E2DE2;
+    border-radius: 15px;
+    border: none;
+    height: 180px;
+    width: 40px;
+    margin-bottom: 20px;
+}
+
+.text-js-dev{
+    background: linear-gradient(to right, #8e2de2, #4a00e0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+}
