@@ -50,6 +50,7 @@
 .button-play{
     background: black;
     border: none;
+    padding-bottom: 20px;
     border-radius: 15px;
     height: 150px;
     width: 40px;
@@ -61,11 +62,15 @@
     border: none;
     height: 180px;
     width: 40px;
-    margin-bottom: 20px;
+    margin-top: 15px;
 }
 
 .text-js-dev{
     background: linear-gradient(to right, #8e2de2, #4a00e0);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; 
+}
+
+.full-get{
+    text-align: center;
 }
